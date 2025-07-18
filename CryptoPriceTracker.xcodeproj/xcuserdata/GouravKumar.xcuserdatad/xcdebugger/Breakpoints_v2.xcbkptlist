@@ -34,64 +34,6 @@
             endingLineNumber = "24"
             landmarkName = "getWatchlist()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "1025C57B-5B16-49B5-A6AE-B6B519186AC1 - cb642394df701c45"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #1 () async -&gt; () in CryptoPriceTracker.WatchlistViewModel.getWatchlist() -&gt; ()"
-                  moduleName = "CryptoPriceTracker.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/GouravKumar/Desktop/Projects/Crypto/CryptoPriceTracker/CryptoPriceTracker/ViewModels/WatchlistViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24">
-               </Location>
-               <Location
-                  uuid = "1025C57B-5B16-49B5-A6AE-B6B519186AC1 - 980093ed40689175"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(4) await resume partial function for closure #1 () async -&gt; () in CryptoPriceTracker.WatchlistViewModel.getWatchlist() -&gt; ()"
-                  moduleName = "CryptoPriceTracker.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/GouravKumar/Desktop/Projects/Crypto/CryptoPriceTracker/CryptoPriceTracker/ViewModels/WatchlistViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24">
-               </Location>
-               <Location
-                  uuid = "1025C57B-5B16-49B5-A6AE-B6B519186AC1 - 1e984dff651f5047"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(5) suspend resume partial function for closure #1 () async -&gt; () in CryptoPriceTracker.WatchlistViewModel.getWatchlist() -&gt; ()"
-                  moduleName = "CryptoPriceTracker.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/GouravKumar/Desktop/Projects/Crypto/CryptoPriceTracker/CryptoPriceTracker/ViewModels/WatchlistViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24">
-               </Location>
-               <Location
-                  uuid = "1025C57B-5B16-49B5-A6AE-B6B519186AC1 - 66603e60c6e030fc"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #1 () async -&gt; () in CryptoPriceTracker.WatchlistViewModel.getWatchlist() -&gt; ()"
-                  moduleName = "CryptoPriceTracker.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/GouravKumar/Desktop/Projects/Crypto/CryptoPriceTracker/CryptoPriceTracker/ViewModels/WatchlistViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
