@@ -2,6 +2,8 @@ CryptoPriceTracker
 
 CryptoPriceTracker is a SwiftUI-based iOS app that tracks real-time cryptocurrency prices using the CoinGecko API.
 
+All that is needed is Xcode and a device or simulator to run the app, no dependencies or Cocoapods are used.
+
 [▶️ Watch App Preview](https://youtube.com/shorts/4k2R6PhlIy8?feature=share)  
 ⸻
 
