@@ -10,7 +10,7 @@ import Foundation
 protocol WatchlistStoreProtocol {
     func storeCoins(coindIDs: [String], for key: String)
     func getCoinIDs(for key: String) -> [String]?
-    func deleteCoins(key: String)
+    func deleteData(key: String)
 }
 
 enum CryptoStoredKeys { //can be extended to store other types on coins, bought, different watchlists etc
@@ -31,7 +31,7 @@ class WatchlistStore : WatchlistStoreProtocol{
         let decoder = JSONDecoder()
         return try? decoder.decode([String].self, from: data)
     }
-    func deleteCoins(key: String = CryptoStoredKeys.watchListKey) {
+    func deleteData(key: String = CryptoStoredKeys.watchListKey) {
         UserDefaultsStore.deleteData(for: key)
     }
     
