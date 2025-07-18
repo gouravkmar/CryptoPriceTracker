@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import Foundation
 
 struct Coin: Identifiable, Codable {
     let id: String

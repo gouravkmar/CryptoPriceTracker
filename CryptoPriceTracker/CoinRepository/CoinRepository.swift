@@ -38,7 +38,7 @@ class CoinRepository : CoinRepositoryProtocol {
             .setParams([
                 CryptoAPIConfig.QueryKeys.vsCurrency: "usd",  // this values can come from user settings, of some other config, not overcomplicationg this now by adding more config
                 CryptoAPIConfig.QueryKeys.order: "market_cap_desc",
-                CryptoAPIConfig.QueryKeys.perPage: "30",// problemm statement
+                CryptoAPIConfig.QueryKeys.perPage: "20",// problemm statement
                 CryptoAPIConfig.QueryKeys.page: "1"
             ])
             .addHeader(key: "x-cg-demo-api-key", value: CryptoAPIConfig.APIKEY)
