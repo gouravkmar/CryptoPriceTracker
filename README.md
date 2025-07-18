@@ -15,6 +15,8 @@ Users can:
 	•	Add/remove coins from their personal watchlist.
 	•	View their saved watchlist.
 	•	See live price updates at regular intervals.
+        •       Dark Mode support if given 
+ 
 
 ⸻
 
